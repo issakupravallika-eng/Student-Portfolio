@@ -1,18 +1,18 @@
 # Education
 
-## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+# Education
+
+## Bachelor of Science (B.Sc.)
+- University: Aditya University
+- Specialisation: Cyber Security and Digital Forensics
+- Current CGPA: 9.48
+- Status: Currently Pursuing
 
 ## Relevant Coursework
-- Programming Fundamentals
+- Steganography
 - Data Structures and Algorithms
-- Database Management Systems
+- mobile forensics
 - Computer Networks
-- Software Engineering
+- forensic computing 
 
-## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+

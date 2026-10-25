@@ -1,18 +1,11 @@
 # About Me
+# About Me
 
-## Introduction
-I am **Your Name**, a B.Tech student in Computer Science and Engineering at **Your College Name**.
+Hello! I am Pravallika, currently pursuing a
+B.Sc. in Cyber Security and Digital Forensics
+at Aditya University.
 
-## Career Objective
-To begin my career as a software developer, apply my programming and problem-solving skills, and continue learning through real-world projects.
-
-## Interests
-- Data Structures and Algorithms
-- Java and Python programming
-- Web development
-- Open-source collaboration with Git and GitHub
-
-## Current Learning Goals
-1. Practise coding problems consistently.
-2. Build and document small projects.
-3. Learn collaborative development workflows.
+I am interested in cybersecurity, digital
+forensics, and cybercrime investigation.
+I have knowledge of Python and experience
+exploring digital forensic investigation tools.
