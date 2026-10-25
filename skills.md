@@ -1,23 +1,20 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
+# Technical Skills
 
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+- Python
 
-## Web Technologies
-- HTML
-- CSS
-- JavaScript (currently learning)
+## Digital Forensics Tools
+- FTK
+- Autopsy
+- UFED
+- Volatility
+- HashCalc
 
-## Developer Tools
-- Git
-- GitHub
-- Visual Studio Code
+## Network Analysis
+- Wireshark
 
-## Skills to Improve
-- Data Structures and Algorithms
-- SQL and database fundamentals
-- Testing and debugging
+## Steganography Tools
+- SilentEye
+- OpenStego
